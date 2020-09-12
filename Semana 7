@@ -1,0 +1,15 @@
+schutze@SchutzeEOS:~$ sudo useradd roberto 
+-crear Usuario.
+schutze@SchutzeEOS:~$ sudo passwd roberto
+Asignar password o cambiarla
+schutze@SchutzeEOS:~$ sudo useradd alan
+schutze@SchutzeEOS:~$ sudo passwd alan
+schutze@SchutzeEOS:~$ sudo adduser roberto casa
+agregar usuario a un grupo
+schutze@SchutzeEOS:~$ sudo adduser alan casa
+modificar grupo
+schutze@SchutzeEOS:~$ sudo groupmod -n FAMILIA casa
+
+
+
+
